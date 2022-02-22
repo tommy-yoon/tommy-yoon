@@ -1,9 +1,12 @@
 # Tommy
 I am a full stack developer and looking for a web development position
 
-## Skills: 
+## Skills 
 
 REACT / REDUX / JS / HTML / CSS / DevOps
+
+## Examples
+Please go to my portfolio(https://tommy-yoon.github.io/)  
 
 - 🔭 I’m currently working on an online classroom project 
 - 🌱 I’m currently learning Cloud Management 
