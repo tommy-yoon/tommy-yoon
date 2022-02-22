@@ -6,7 +6,7 @@ I am a full stack developer and looking for a web development position
 REACT / REDUX / JS / HTML / CSS / DevOps
 
 ## Examples
-Please go to my portfolio(https://tommy-yoon.github.io/)  
+Please go to my [portfolio](https://tommy-yoon.github.io/)  
 
 - 🔭 I’m currently working on an online classroom project 
 - 🌱 I’m currently learning Cloud Management 
