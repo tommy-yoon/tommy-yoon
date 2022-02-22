@@ -1,8 +1,10 @@
-### Hi there 👋, my name is Tommy
+# Tommy
 #### I am a full stack developer
 I am looking for a web development position
 
-Skills: REACT / REDUX / JS / HTML / CSS / DevOps
+Skills: 
+
+REACT / REDUX / JS / HTML / CSS / DevOps
 
 - 🔭 I’m currently working on an online classroom project 
 - 🌱 I’m currently learning Cloud Management 
