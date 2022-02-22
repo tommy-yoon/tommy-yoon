@@ -1,8 +1,7 @@
 # Tommy
-#### I am a full stack developer
-I am looking for a web development position
+I am a full stack developer and looking for a web development position
 
-Skills: 
+## Skills: 
 
 REACT / REDUX / JS / HTML / CSS / DevOps
 
