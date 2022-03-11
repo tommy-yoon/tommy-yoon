@@ -3,7 +3,9 @@ I am a full stack developer and looking for a web development position
 
 ## Skills 
 
-REACT / REDUX / JS / HTML / CSS / DevOps
+REACT / REDUX / JS / HTML / CSS
+DevOps / Travis CI / Jira / Trello /  
+Java / Spring / Hibernate / Oracle
 
 ## Examples
 Please go to my [portfolio](https://tommy-yoon.github.io/)  
